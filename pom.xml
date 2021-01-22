@@ -15,8 +15,8 @@
 
     <packaging>sbar</packaging>
 
-    <description/>
-plugins>
+  
+<plugins>
    <plugin>
      <groupId>com.oracle.servicebus</groupId>
      <artifactId>oracle-servicebus-plugin</artifactId>
